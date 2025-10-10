@@ -7,7 +7,7 @@ const Banner = () => {
     return (
         <div className=' flex flex-col justify-center items-center text-center'>
             <h1 className=' text-[#001931] text-5xl md:text-7xl font-bold mb-4 animate-fade-in-scale ' >
-                We Build
+                We Build nothing
                 <br />
                 <span className=' font-bold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent ' >Productive </span>
                 Apps

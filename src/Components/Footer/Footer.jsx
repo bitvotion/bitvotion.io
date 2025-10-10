@@ -25,7 +25,7 @@ const Footer = () => {
                     <div className=' flex items-center gap-6 mb-10 md:mb-0 ' >
                         <img
                             src={logo}
-                            className=' h-16 md:h-20 lg:h-25 '
+                            className=' h-16 md:h-20 lg:h-25 hover:animate-spin '
                         />
                         <h2 className='text-5xl font-extrabold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent '>BitVotion.IO</h2>
                     </div>
